@@ -1,3 +1,4 @@
 .env
-tmp/logs/*
+tmp/configs/*
 models/*
+gemini/env/

@@ -1,0 +1,79 @@
+[
+     {
+          "user": "name",
+          "sentences": [
+               "socrates é grego",
+               "gregos são europeus",
+               "logo, socrates é europeu"
+          ]
+     },
+     {
+          "user": "name",
+          "sentences": [
+               "se o time joga bem, então ganha o campeonato",
+               "se o time não joga bem, então o técnico é culpado",
+               "se o time ganha o campeonato, então os torcedores ficam contentes",
+               "os torcedores não estão contentes",
+               "logo, o técnico é o culpado"
+          ]
+     },
+     {
+          "user": "name",
+          "sentences": [
+               "se o governo é bom, então não há desemprego",
+               "se não há desemprego, então não há inflação",
+               "há inflação",
+               "logo, o governo não é bom"
+          ]
+     },
+     {
+          "user": "name",
+          "sentences": [
+               "se não gastar, então tenho dinheiro",
+               "se for sábado, então irei gastar",
+               "se trabalho, então não é sábado",
+               "hoje trabalho",
+               "logo, tenho dinheiro"
+          ]
+     },
+     {
+          "user": "name",
+          "sentences": [
+               "se faz sol e está calor, então irei a praia",
+               "está chovendo ou faz sol",
+               "está calor e está chovendo",
+               "logo, não irei a praia"
+          ]
+     },
+     {
+          "user": "name",
+          "sentences": [
+               "se minha barba está grande, então farei a barba",
+               "se meu cabelo está longo, então cortarei o cabelo",
+               "meu cabelo está longo e minha barba está grande",
+               "logo, farei a barba e cortarei o cabelo"
+          ]
+     },
+     {
+          "user": "name",
+          "sentences": [
+               "se não estou animado, então não irei a festa",
+               "se o não corinthians ganha, então não estou animado",
+               "corinthians ganha ou flamengo ganha",
+               "se gabigol jogou, então flamengo ganha",
+               "gabigol jogou",
+               "logo, não irei a festa"
+          ]
+     },
+     {
+          "user": "name",
+          "sentences": [
+               "se passo em lógica, então comemoro",
+               "se entrego o trabalho, então passo em lógica",
+               "se há internet e não estou cansado, então entrego o trabalho",
+               "se dormi, então não estou cansado",
+               "há internet e dormi",
+               "logo, comemoro"
+          ]
+     }
+]

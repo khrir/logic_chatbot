@@ -3,6 +3,7 @@ FROM python:3.8.10-alpine
 COPY . /app
 
 RUN pip install --upgrade pip && \
+    pip install python-dotenv && \
     pip install --upgrade openai
 
 WORKDIR /app

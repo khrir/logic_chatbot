@@ -1,5 +1,8 @@
 import openai
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def send_message(message, history):
     history.append({
