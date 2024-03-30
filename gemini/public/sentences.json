@@ -1,6 +1,6 @@
 [
      {
-          "user": "name",
+          "id": 1,
           "sentences": [
                "socrates é grego",
                "gregos são europeus",
@@ -8,7 +8,7 @@
           ]
      },
      {
-          "user": "name",
+          "id": 2,
           "sentences": [
                "se o time joga bem, então ganha o campeonato",
                "se o time não joga bem, então o técnico é culpado",
@@ -18,7 +18,7 @@
           ]
      },
      {
-          "user": "name",
+          "id": 3,
           "sentences": [
                "se o governo é bom, então não há desemprego",
                "se não há desemprego, então não há inflação",
@@ -27,7 +27,7 @@
           ]
      },
      {
-          "user": "name",
+          "id": 4,
           "sentences": [
                "se não gastar, então tenho dinheiro",
                "se for sábado, então irei gastar",
@@ -37,7 +37,7 @@
           ]
      },
      {
-          "user": "name",
+          "id": 5,
           "sentences": [
                "se faz sol e está calor, então irei a praia",
                "está chovendo ou faz sol",
@@ -46,7 +46,7 @@
           ]
      },
      {
-          "user": "name",
+          "id": 6,
           "sentences": [
                "se minha barba está grande, então farei a barba",
                "se meu cabelo está longo, então cortarei o cabelo",
@@ -55,7 +55,7 @@
           ]
      },
      {
-          "user": "name",
+          "id": 7,
           "sentences": [
                "se não estou animado, então não irei a festa",
                "se o não corinthians ganha, então não estou animado",
@@ -66,7 +66,7 @@
           ]
      },
      {
-          "user": "name",
+          "id": 8,
           "sentences": [
                "se passo em lógica, então comemoro",
                "se entrego o trabalho, então passo em lógica",

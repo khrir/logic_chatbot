@@ -1,0 +1,34 @@
+[
+    {
+        "sentences_id": 1, 
+        "response": " A inferência lógica é verdadeira.\n\nA primeira premissa afirma que Sócrates é grego. A segunda premissa afirma que os gregos são europeus. A conclusão afirma que Sócrates é europeu.\n\nA conclusão é verdadeira porque é uma consequência lógica das duas premissas. Se Sócrates é grego e os gregos são europeus, então Sócrates é europeu."
+    }, 
+    {
+        "sentences_id": 2, 
+        "response": " A inferência lógica é verdadeira.\n\nA primeira premissa diz que se o time joga bem, então ganha o campeonato. A segunda premissa diz que se o time não joga bem, então o técnico é culpado. A terceira premissa diz que se o time ganha o campeonato, então os torcedores ficam contentes. A quarta premissa diz que os torcedores não estão contentes. A conclusão diz que, portanto, o técnico é o culpado.\n\nA conclusão é verdadeira porque se os torcedores não estão contentes, então o time não ganhou o campeonato. Se o time não ganhou o campeonato, então não jogou bem. Se o time não jogou bem, então o técnico é culpado."
+    }, 
+    {
+        "sentences_id": 3, 
+        "response": " A inferência lógica é falsa.\n\nA primeira premissa é \"se o governo é bom, então não há desemprego\". Isso significa que, se o governo for bom, não haverá desemprego.\n\nA segunda premissa é \"se não há desemprego, então não há inflação\". Isso significa que, se não houver desemprego, não haverá inflação.\n\nA terceira premissa é \"há inflação\". Isso significa que há inflação.\n\nA conclusão é \"logo, o governo não é bom\". Isso significa que, como há inflação, o governo não é bom.\n\nNo entanto, a conclusão não é necessariamente verdadeira. É possível que o governo seja bom, mesmo que haja inflação. Por exemplo, o governo pode estar fazendo o melhor que pode para controlar a inflação, mas pode haver fatores externos que estão causando a inflação.\n\nPortanto, a inferência lógica é falsa."
+    }, 
+    {
+        "sentences_id": 4, 
+        "response": " A inferência lógica é verdadeira.\n\nA primeira premissa diz que se não gastar, então tenho dinheiro. A segunda premissa diz que se for sábado, então irei gastar. A terceira premissa diz que se trabalho, então não é sábado. A quarta premissa diz que hoje trabalho. A conclusão diz que logo, tenho dinheiro.\n\nSe hoje trabalho, então não é sábado (terceira premissa). Se não é sábado, então não vou gastar (segunda premissa). Se não vou gastar, então tenho dinheiro (primeira premissa). Portanto, a conclusão é verdadeira."
+    }, 
+    {
+        "sentences_id": 5, 
+        "response": " A inferência lógica não é verdadeira.\n\nA primeira premissa diz que se faz sol e está calor, então irei a praia. A segunda premissa diz que está chovendo ou faz sol. A terceira premissa diz que está calor e está chovendo. A conclusão diz que não irei a praia.\n\nA conclusão não é verdadeira porque a primeira premissa não é verdadeira. A primeira premissa diz que se faz sol e está calor, então irei a praia. Mas a terceira premissa diz que está calor e está chovendo. Então, a primeira premissa não é verdadeira porque não faz sol.\n\nPortanto, a inferência lógica não é verdadeira."
+    }, 
+    {
+        "sentences_id": 6, 
+        "response": " A inferência lógica é verdadeira.\n\nA primeira premissa diz que se minha barba está grande, então farei a barba. A segunda premissa diz que se meu cabelo está longo, então cortarei o cabelo. A terceira premissa diz que meu cabelo está longo e minha barba está grande. Portanto, a conclusão é que farei a barba e cortarei o cabelo."
+    }, 
+    {
+        "sentences_id": 7, 
+        "response": " A inferência lógica é verdadeira.\n\nA primeira premissa é \"se não estou animado, então não irei a festa\". A segunda premissa é \"se o não corinthians ganha, então não estou animado\". A terceira premissa é \"corinthians ganha ou flamengo ganha\". A quarta premissa é \"se gabigol jogou, então flamengo ganha\". A quinta premissa é \"gabigol jogou\".\n\nA partir dessas premissas, podemos concluir que \"não irei a festa\".\n\nA segunda premissa nos diz que se o não corinthians ganha, então não estou animado. A terceira premissa nos diz que corinthians ganha ou flamengo ganha. Como sabemos que o corinthians não ganhou (já que o flamengo ganhou), então podemos concluir que o flamengo ganhou. A quarta premissa nos diz que se gabigol jogou, então flamengo ganha. A quinta premissa nos diz que gabigol jogou. Portanto, podemos concluir que o flamengo ganhou.\n\nA primeira premissa nos diz que se não estou animado, então não irei a festa. Como sabemos que estou animado (já que o flamengo ganhou), então podemos concluir que irei a festa.\n\nPortanto,"
+    }, 
+    {
+        "sentences_id": 8, 
+        "response": " A inferência lógica é falsa.\n\nA primeira premissa diz que se passo em lógica, então comemoro. A segunda premissa diz que se entrego o trabalho, então passo em lógica. A terceira premissa diz que se há internet e não estou cansado, então entrego o trabalho. A quarta premissa diz que se dormi, então não estou cansado. A quinta premissa diz que há internet e dormi.\n\nA partir dessas premissas, podemos concluir que dormi e há internet. Isso significa que não estou cansado. Portanto, posso entregar o trabalho. Isso significa que passo em lógica. Portanto, comemoro.\n\nNo entanto, a conclusão \"logo, comemoro\" não é necessariamente verdadeira. Isso porque a primeira premissa diz que se passo em lógica, então comemoro. Mas não sabemos se realmente passei em lógica. Portanto, não podemos concluir que comemoro."
+    }
+]
